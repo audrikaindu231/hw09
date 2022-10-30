@@ -5,7 +5,7 @@ setup(name='homework',
       description='A Homework Package',
       url='https://github.com/audrikaindu231/hw09',
       author='Audrika Indu',
-      author_email='cet6dn@virginia.edu'
+      author_email='cet6dn@virginia.edu',
       license='MIT',
       packages='Module09')
 
