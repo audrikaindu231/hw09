@@ -1,0 +1,8 @@
+setup.py
+homework/__init__.py
+homework/booklover.py
+homework/booklover_test.py
+homework.egg-info/PKG-INFO
+homework.egg-info/SOURCES.txt
+homework.egg-info/dependency_links.txt
+homework.egg-info/top_level.txt

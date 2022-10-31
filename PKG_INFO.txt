@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: homework
+Version: 0.1
+Summary: Booklover 
+Home-page: hhttps://github.com/audrikaindu231/hw09
+Author: Audrika Indu
+Author-email: cet6dn@virginia.edu
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
